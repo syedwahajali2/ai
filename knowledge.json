@@ -1,0 +1,414 @@
+[
+    {
+        "topic": "Python",
+        "question": "What is Python programming language",
+        "keywords": [
+            "python",
+            "programming",
+            "language"
+        ],
+        "answer": "Python is a high-level programming language known for readable syntax. It is used in web development, automation, data analysis, AI, and many other fields."
+    },
+    {
+        "topic": "Python",
+        "question": "Why is Python popular",
+        "keywords": [
+            "python",
+            "popular",
+            "benefits"
+        ],
+        "answer": "Python is popular because its syntax is easy to read, it has a large community, and it offers libraries for web development, data science, automation, and AI."
+    },
+    {
+        "topic": "Python",
+        "question": "What are Python variables",
+        "keywords": [
+            "variable",
+            "store",
+            "value"
+        ],
+        "answer": "A variable is a name used to store a value. For example, age = 17 stores the number 17 in a variable named age."
+    },
+    {
+        "topic": "Python",
+        "question": "What are Python data types",
+        "keywords": [
+            "data types",
+            "int",
+            "float",
+            "string",
+            "boolean"
+        ],
+        "answer": "Common Python data types include int for whole numbers, float for decimal numbers, str for text, bool for True or False, list, tuple, set, and dict."
+    },
+    {
+        "topic": "Python",
+        "question": "What is a Python function",
+        "keywords": [
+            "function",
+            "def",
+            "reusable"
+        ],
+        "answer": "A function is a reusable block of code. You define it with def, give it a name, and call it whenever you need its task."
+    },
+    {
+        "topic": "Python",
+        "question": "What is a Python list",
+        "keywords": [
+            "list",
+            "collection",
+            "mutable"
+        ],
+        "answer": "A list is an ordered and changeable collection. Example: fruits = ['apple', 'mango', 'banana']."
+    },
+    {
+        "topic": "Python",
+        "question": "What is a Python tuple",
+        "keywords": [
+            "tuple",
+            "collection",
+            "immutable"
+        ],
+        "answer": "A tuple is an ordered collection that cannot be changed after creation. Example: point = (4, 8)."
+    },
+    {
+        "topic": "Python",
+        "question": "What is a Python dictionary",
+        "keywords": [
+            "dictionary",
+            "dict",
+            "key",
+            "value"
+        ],
+        "answer": "A dictionary stores data as key-value pairs. Example: student = {'name': 'Ali', 'age': 17}."
+    },
+    {
+        "topic": "Python",
+        "question": "What is a Python set",
+        "keywords": [
+            "set",
+            "unique",
+            "items"
+        ],
+        "answer": "A set is an unordered collection of unique items. It automatically removes duplicate values."
+    },
+    {
+        "topic": "Python",
+        "question": "What is a for loop",
+        "keywords": [
+            "for loop",
+            "iteration",
+            "repeat"
+        ],
+        "answer": "A for loop repeats code for each item in a sequence, such as a list or range."
+    },
+    {
+        "topic": "Python",
+        "question": "What is a while loop",
+        "keywords": [
+            "while loop",
+            "condition",
+            "repeat"
+        ],
+        "answer": "A while loop repeats a block of code as long as its condition remains True."
+    },
+    {
+        "topic": "Python",
+        "question": "What is object oriented programming",
+        "keywords": [
+            "oop",
+            "class",
+            "object",
+            "inheritance"
+        ],
+        "answer": "Object-oriented programming organizes code using classes and objects. Its main ideas include encapsulation, inheritance, polymorphism, and abstraction."
+    },
+    {
+        "topic": "Python",
+        "question": "What is exception handling",
+        "keywords": [
+            "exception",
+            "error",
+            "try",
+            "except"
+        ],
+        "answer": "Exception handling lets a program respond to runtime errors. Python uses try, except, else, and finally blocks."
+    },
+    {
+        "topic": "Python",
+        "question": "What is a Python module",
+        "keywords": [
+            "module",
+            "import",
+            "file"
+        ],
+        "answer": "A module is a Python file containing reusable code such as functions, classes, or variables. You can use it with import."
+    },
+    {
+        "topic": "AI",
+        "question": "What is artificial intelligence",
+        "keywords": [
+            "ai",
+            "artificial intelligence",
+            "smart systems"
+        ],
+        "answer": "Artificial intelligence is a field of computer science focused on building systems that perform tasks associated with human intelligence, such as understanding language and recognizing patterns."
+    },
+    {
+        "topic": "AI",
+        "question": "What is machine learning",
+        "keywords": [
+            "machine learning",
+            "ml",
+            "data",
+            "model"
+        ],
+        "answer": "Machine learning is a branch of AI in which models learn patterns from data and use those patterns to make predictions or decisions."
+    },
+    {
+        "topic": "AI",
+        "question": "What is deep learning",
+        "keywords": [
+            "deep learning",
+            "neural network",
+            "layers"
+        ],
+        "answer": "Deep learning is a type of machine learning that uses neural networks with multiple layers to learn complex patterns from large amounts of data."
+    },
+    {
+        "topic": "AI",
+        "question": "What is generative AI",
+        "keywords": [
+            "generative ai",
+            "create",
+            "text",
+            "image"
+        ],
+        "answer": "Generative AI creates new content such as text, images, audio, or code by learning patterns from training data."
+    },
+    {
+        "topic": "AI",
+        "question": "What is a large language model",
+        "keywords": [
+            "llm",
+            "large language model",
+            "chatbot"
+        ],
+        "answer": "A large language model is an AI model trained on large amounts of text to understand and generate language."
+    },
+    {
+        "topic": "AI",
+        "question": "What is a prompt",
+        "keywords": [
+            "prompt",
+            "instruction",
+            "input"
+        ],
+        "answer": "A prompt is the instruction or input given to an AI system to guide the response it generates."
+    },
+    {
+        "topic": "AI",
+        "question": "What is fine tuning",
+        "keywords": [
+            "fine tuning",
+            "training",
+            "model"
+        ],
+        "answer": "Fine-tuning is the process of continuing the training of a pre-trained model on a more focused dataset so it performs better on a particular task."
+    },
+    {
+        "topic": "AI",
+        "question": "What is a neural network",
+        "keywords": [
+            "neural network",
+            "neurons",
+            "layers"
+        ],
+        "answer": "A neural network is a machine-learning model made of connected processing units arranged in layers. It learns patterns by adjusting its internal parameters."
+    },
+    {
+        "topic": "AI",
+        "question": "What is natural language processing",
+        "keywords": [
+            "nlp",
+            "natural language",
+            "text",
+            "language"
+        ],
+        "answer": "Natural language processing is an area of AI that helps computers work with human language, including text classification, translation, and question answering."
+    },
+    {
+        "topic": "AI",
+        "question": "What is computer vision",
+        "keywords": [
+            "computer vision",
+            "images",
+            "videos",
+            "recognition"
+        ],
+        "answer": "Computer vision is a field of AI that helps computers analyze images and videos, for example identifying objects or recognizing patterns."
+    },
+    {
+        "topic": "Data Science",
+        "question": "What is data science",
+        "keywords": [
+            "data science",
+            "analysis",
+            "insights"
+        ],
+        "answer": "Data science combines programming, statistics, and domain knowledge to collect, analyze, and interpret data."
+    },
+    {
+        "topic": "Data Science",
+        "question": "What is NumPy",
+        "keywords": [
+            "numpy",
+            "array",
+            "numerical"
+        ],
+        "answer": "NumPy is a Python library for numerical computing. It provides efficient arrays and mathematical operations."
+    },
+    {
+        "topic": "Data Science",
+        "question": "What is Pandas",
+        "keywords": [
+            "pandas",
+            "dataframe",
+            "table",
+            "data"
+        ],
+        "answer": "Pandas is a Python library used to clean, transform, analyze, and organize data with structures such as Series and DataFrames."
+    },
+    {
+        "topic": "Data Science",
+        "question": "What is data visualization",
+        "keywords": [
+            "visualization",
+            "chart",
+            "graph",
+            "plot"
+        ],
+        "answer": "Data visualization means presenting information through charts and graphs so patterns and comparisons are easier to understand."
+    },
+    {
+        "topic": "Computers",
+        "question": "What is an operating system",
+        "keywords": [
+            "operating system",
+            "os",
+            "windows",
+            "linux"
+        ],
+        "answer": "An operating system manages computer hardware and software resources. Examples include Windows, Linux, macOS, and Android."
+    },
+    {
+        "topic": "Computers",
+        "question": "What is RAM",
+        "keywords": [
+            "ram",
+            "memory",
+            "temporary"
+        ],
+        "answer": "RAM is short-term computer memory used to hold data and programs currently in use. Its contents are cleared when power is turned off."
+    },
+    {
+        "topic": "Computers",
+        "question": "What is a CPU",
+        "keywords": [
+            "cpu",
+            "processor",
+            "computer"
+        ],
+        "answer": "The CPU is the main processor that executes instructions and performs calculations in a computer."
+    },
+    {
+        "topic": "Computers",
+        "question": "What is a GPU",
+        "keywords": [
+            "gpu",
+            "graphics",
+            "parallel"
+        ],
+        "answer": "A GPU is a processor designed to handle many operations in parallel. It is used for graphics and is also useful for many AI workloads."
+    },
+    {
+        "topic": "Programming",
+        "question": "What is an algorithm",
+        "keywords": [
+            "algorithm",
+            "steps",
+            "problem"
+        ],
+        "answer": "An algorithm is a finite sequence of clear steps designed to solve a problem or complete a task."
+    },
+    {
+        "topic": "Programming",
+        "question": "What is debugging",
+        "keywords": [
+            "debugging",
+            "bugs",
+            "errors"
+        ],
+        "answer": "Debugging is the process of finding, understanding, and fixing problems in a program."
+    },
+    {
+        "topic": "Programming",
+        "question": "What is Git",
+        "keywords": [
+            "git",
+            "version control",
+            "changes"
+        ],
+        "answer": "Git is a version control system that tracks changes in files and helps developers work on projects over time."
+    },
+    {
+        "topic": "Programming",
+        "question": "What is GitHub",
+        "keywords": [
+            "github",
+            "repository",
+            "remote"
+        ],
+        "answer": "GitHub is an online platform for hosting Git repositories, sharing code, reviewing changes, and collaborating on projects."
+    },
+    {
+        "topic": "Programming",
+        "question": "What is an API",
+        "keywords": [
+            "api",
+            "application programming interface",
+            "communication"
+        ],
+        "answer": "An API defines how software systems communicate and exchange data or functionality."
+    },
+    {
+        "topic": "Programming",
+        "question": "What is JSON",
+        "keywords": [
+            "json",
+            "data format",
+            "key value"
+        ],
+        "answer": "JSON is a lightweight text format for storing and exchanging structured data using objects and arrays."
+    },
+    {
+        "topic": "Programming",
+        "question": "What is a database",
+        "keywords": [
+            "database",
+            "storage",
+            "records"
+        ],
+        "answer": "A database is an organized collection of information that can be stored, searched, updated, and managed."
+    },
+    {
+        "topic": "Programming",
+        "question": "What is an IDE",
+        "keywords": [
+            "ide",
+            "editor",
+            "development environment"
+        ],
+        "answer": "An IDE is a software application that provides tools for writing, running, and debugging code. Examples include VS Code and PyCharm."
+    }
+]
